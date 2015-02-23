@@ -1,0 +1,15 @@
+# Site settings
+title: :lightsofapollo blog
+email: jlal at mozilla (dot) com
+description: > # this means to ignore newlines until "baseurl:"
+  James Lal's (:lightsofapollo on irc) Blog about mozilla and infrastructure stuff.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: lightsofapollo
+github_username: lightsofapollo
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+production_url : http://lightsofapollo.github.io
