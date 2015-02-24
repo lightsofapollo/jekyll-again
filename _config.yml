@@ -9,7 +9,7 @@ twitter_username: lightsofapollo
 github_username: lightsofapollo
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 kramdown:
   input: GFM
 production_url : http://lightsofapollo.github.io
